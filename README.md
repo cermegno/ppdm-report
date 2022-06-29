@@ -7,7 +7,7 @@ The generated Teams card includes:
 - another button with a link download the detailed report from an S3 bucket
 
 ## Acknowledgements
-The code uses a pre-compiled Python tool for Windows that generates a detailed backup report on Excel format. You can find the EXE and the Python code in [Raghava Jainoje's repo](https://github.com/rjainoje). Kudos to Raghava
+The code uses a pre-compiled Python tool for Windows that generates a detailed backup report on Excel format. You can find the EXE and the Python code in [Raghava Jainoje's repo](https://github.com/rjainoje). Kudos to Raghava!
 
 ## Compatibility
 Code has been tested with Python 3.9.2
